@@ -1,0 +1,70 @@
+.post-type-projects .acf-field-5d650e30a3e9f {
+  width: 50%;
+  display: inline-block;
+}
+
+.post-type-projects .acf-field-5d663a17fb061 {
+  width: 49%;
+  display: inline-block;
+ }
+
+.post-type-projects .acf-fields .acf-field {
+  border-top: 0;
+  vertical-align: top;
+}
+
+.post-type-projects .acf-fields .acf-field label {
+	font-size: 20px;
+	color: #873988;
+}
+
+.post-type-projects .acf-fields .acf-field .acf-fields .acf-field {
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.post-type-projects .acf-fields .acf-field .acf-fields {
+	border: 0;
+}
+
+.post-type-projects .acf-fields .acf-field .acf-fields .acf-field label {
+	font-size: 16px;
+	color: #333;
+}
+
+.post-type-projects #wpcontent {
+	background: #fff;
+}
+
+.post-type-projects.post-php input[type="text"], .post-type-projects input[type="email"] {
+	border-radius: 5px;
+	font-size: 16px;
+	padding: 10px;
+}
+
+.post-type-projects.post-php #title {
+	border-radius: 0;
+	font-size: 24px!important;
+	font-weight: 700;
+	color: #2B275C;
+	border: none;
+	border-bottom: 1px solid #873988;
+	outline: none;
+	box-shadow: none;
+	padding-left: 0!important;
+}
+
+.post-type-projects.post-php #title:focus {
+	border-bottom: 1px solid #2B275C;
+	font-size: 36px!important;
+	color: #873988;
+	transition: 0.3s;
+}
+
+.post-type-projects ul#adminmenu a.wp-has-current-submenu:after, .post-type-projects ul#adminmenu>li.current>a.current:after {
+    border-right-color: #fff;
+}
+
+#confirmed-waitingforspecs {
+	color: orange;
+}
